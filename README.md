@@ -1,17 +1,22 @@
-# DevProjects - Alpaca image generator website
+# Portfolio Website Demo
 
-This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [Alpaca image generator website](https://www.codementor.io/projects/web/alpaca-image-generator-website-ce2oc0eus8)
+Welcome to my demo portfolio website! This repository contains the code for my personal portfolio website, designed to showcase my projects, skills, and experiences.
 
-## Tech/framework used
-Built with ___
+## Demo
 
-## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+You can view the live demo of the website [here](#). (Add the link to your live demo)
 
-## Installation
-Instructions for other developers on how to install and run your code on their local environment.
+## Features
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-Most open source projects use the MIT license. Feel free to choose whichever license you prefer.
+- **Responsive Design:** The website is optimized for various screen sizes and devices.
+- **Project Showcase:** Display your projects with descriptions and links.
+- **About Me:** Provide information about yourself, your skills, and experiences.
+- **Contact Form:** Allow visitors to get in touch with you easily.
+
+## Technologies Used
+
+- HTML5
+- CSS3 (with Flexbox/Grid for layout)
+- JavaScript (optional, if any interactive features are included)
+
+
